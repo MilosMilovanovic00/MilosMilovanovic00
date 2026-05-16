@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**MilosMilovanovic00/MilosMilovanovic00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Milos, a graduated Master’s student in Human-Centred Artificial Intelligence based in Italy.
 
-Here are some ideas to get you started:
+I work on web and mobile development using React, Flutter, Python, and modern backend tools like Firebase and SQL databases. I enjoy building full-stack applications that are clean, functional, and scalable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I recently worked on my thesis, where I developed a machine learning model for multi-class classification of EEG signals, focusing on applied AI in neuroscience.
+
+I'm particularly interested in Brain–Computer Interfaces (BCI) and in building applied AI systems inspired by how the human brain works.
+
+---
+
+## Tools & Tech
+
+• React, Flutter, Tailwind, Vue
+• Python, Java, SpringBoot, Dart
+• Bloc, Provider, Riverpod
+• Postman
+• Firebase
+• PostgreSQL, MySQL
+• Figma
+
+---
