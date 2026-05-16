@@ -10,14 +10,14 @@ I'm particularly interested in Brain–Computer Interfaces (BCI) and in building
 
 ---
 
-## Tools & Tech
+## 🛠️ Tools & Tech
 
-• React, Flutter, Tailwind, Vue
-• Python, Java, SpringBoot, Dart
-• Bloc, Provider, Riverpod
-• Postman
-• Firebase
-• PostgreSQL, MySQL
-• Figma
+- React, Flutter, Tailwind, Vue
+- Python, Java, SpringBoot, Dart
+- Bloc, Provider, Riverpod
+- Postman
+- Firebase
+- PostgreSQL, MySQL
+- Figma
 
 ---
